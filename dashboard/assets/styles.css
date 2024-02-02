@@ -1,0 +1,113 @@
+body {
+    font-family: "Lato", sans-serif;
+    margin: 0;
+    background-color: #F7F7F7;
+}
+
+.header {
+	background-image: url("pexels-polina-tankilevitch-3872373_wide_format.jpg");
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	height: 288px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-content: center;
+    /*padding: 16px 0 0 0;*/
+}
+
+.header-plaque {
+	background-color: #636363;
+	padding: 30px 30px 30px 30px;
+	/*opacity: 0.75;*/
+	background: rgba(99, 99, 99, 0.75)
+}
+
+.header-title {
+    color: #FFFFFF;
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.header-description {
+    color: #CFCFCF;
+    margin: 4px auto;
+    text-align: center;
+    max-width: 384px;
+}
+
+.map-container {
+	margin-top: 32px;
+	margin-right: auto;
+	margin-left: auto;
+	max-width: 1024px;
+    	padding: 10px;
+	background-color: #de2d26;	
+}
+
+.dropdown-container {
+    height: 112px;
+    width: 912px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 24px;
+    margin: 32px auto 0 auto;
+    background-color: #de2d26;
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.18);
+}
+
+/* a CSS class for styling the dropdown elements in dashboard -> text properties need to be set separately (see below) */
+.dropdown {
+	width: 250px;
+}
+
+/* this class overrides standard dash settings for search box of dropdown elements (where "Select..." is displayed) */
+.Select-control {
+    background-color: white;
+    color: pink;
+  }
+
+/* this class overrides standard dash settings for the expandable list (once you start typing) */
+.Select-menu-outer {
+   /* background-color: #000000; */
+    color: black;
+}
+
+/* this class overrides standard dash settings for selected items placed in dropdown element */
+/*.Select--multi */
+.Select-value-label {
+	background-color: white;
+    	color: pink; 
+}
+
+.menu-title {
+    margin-bottom: 6px;
+    font-weight: bold;
+    color: white;
+}
+
+.graph-container {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 1024px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-top: 32px;
+	background-color: #de2d26;
+}
+
+.card {
+    margin-bottom: 24px;
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.18);
+	background-color: #079A82;
+}
+
+.data-table {
+	padding: 8px;
+	text-align: left;
+	background-color: #079A82;
+	color: white;
+}
