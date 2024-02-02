@@ -1,0 +1,113 @@
+﻿meal_id,meal_name,true_dish_type,meal_category,notes_list,notes_list_90,meal_super_category
+2195585,Lachssteak mit Sauce Choron,Hauptgericht,Bistro Gourmet Fisch,Fisch;Eier;Milch,Fisch;Eier;Milch,unmatched
+4140071,Rahmspinat,Beilage,Pasta Buffetpro 100g,Vegetarisch;mit Farbstoff;Weizen;Milch und Milchprodukte (inkl. Laktose),mit Farbstoff;Vegetarisch;Milch und Milchprodukte (inkl. Laktose);Weizen,main_dish
+1095677,Tomatenpaprikasalat,Salat,Beilage,,,side_dish
+887401,Gebackenes Seelachsfilet,Hauptgericht,Essen,,,main_dish
+4355669,"Vegane Nuggets, Chilisauce, Mandel-Brokkoli, Tomatenreis",Hauptgericht,Menü,ohne Fleisch;vegan;Natürlich frisch;mit Knoblauch;Farbstoff,vegan;ohne Fleisch;Natürlich frisch;mit Knoblauch;Farbstoff,main_dish
+15676625,"Schupfnudel-Gemüsepfanne mit Fleischbällchen(S/R), Kräutersauce, Salat der Saison",Hauptgericht,Tagesmenü,Antioxidationsmittel;Eier;Milch/Laktose;Schwefeldioxid und Sulfite;Weizen,Antioxidationsmittel;Schwefeldioxid und Sulfite;Eier;Weizen;Milch/Laktose,main_dish
+1312053,"Hausgemachter Kräuterquark (g) Gurkensalat, Pellkartoffeln, Tagesdessert Mars",Hauptgericht,Vegetarisch,,,main_dish
+2734350,Gurkensalat,Salat,Beilagen,,,side_dish
+15985292,Mais oder Mischsalat,Salat,Nebenbeilage,,,side_dish
+2194037,Türkische Pizza mit Rinderhack und Mix Salat,Hauptgericht,Cafeteria Pizza & Co,Rindfleisch;Weizen;Soja und Sojaerzeugnisse;Milch und Milchprodukte (inkl. Laktose),Soja und Sojaerzeugnisse;Rindfleisch;Milch und Milchprodukte (inkl. Laktose);Weizen,main_dish
+2212440,Ananasquark,Dessert,Desserts,,,dessert
+1781348,"Käsespätzle ""Schwäbische Art"" mit geschmelzten Zwiebeln",Hauptgericht,Mensa,Glutenhaltiges Getreide;Eier und Eierzeugnisse;Milch und Milcherzeugnisse,Milch und Milcherzeugnisse;Glutenhaltiges Getreide;Eier und Eierzeugnisse,mix
+2142101,"Eine Riesencurrywurst,",Hauptgericht,Aktionsstand,,,main_dish
+15200238,"NEUes Gericht für dich gekocht..., Schnitzel vom Feld (Gemüsebasis) , Champignons in Rotweinsoße , gebratene Drillinge",Hauptgericht,CampusSpezial,"Alkohol;Klimateller;Neu;Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l);Sellerie und Sellerieerzeugnisse;Senf und Senferzeugnisse;Soja und Sojaerzeugnisse;Vegan;enthält keine laktosehaltigen Lebensmittel;glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)","Soja und Sojaerzeugnisse;Sellerie und Sellerieerzeugnisse;Senf und Senferzeugnisse;Vegan;Alkohol;enthält keine laktosehaltigen Lebensmittel;Klimateller;glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",unmatched
+4172373,Petersilienkartoffeln,Beilage,Beilage,,,side_dish
+3581711,"Früchte-Joghurtbecher To Go 0,2l",Dessert,Aktionen,grün (Ampel);vegetarisch;Antioxidationsmittel;Weizen;Gerste;Hafer;Mandeln;Haselnuss;Milch und Milchprodukte (inkl. Laktose),Antioxidationsmittel;vegetarisch;Milch und Milchprodukte (inkl. Laktose);Weizen;Mandeln;Hafer;Gerste;grün (Ampel),main_dish
+1529469,Kidneybohnen-Mais-Gemüse,Beilage,Gemüsebeilagen,,,side_dish
+2168439,Rindergulasch nach Art des Hauses,Hauptgericht,Essen 1,"Glutenhaltiges Getreide
+GL1     Weizen
+GL2     Roggen
+GL3     Gerste
+GL4     Hafer
+GL5     Dinkel
+GL6     Kamut;mit Farbstoff;Rind",Rind;mit Farbstoff,mix
+2323043,"Veganer Weihnachtsbraten mit Feigen-Walnussfüllung, dazu Pilzsoße und Schwenkkartoffeln",Hauptgericht,Angebote,Menü ist vegan,Menü ist vegan,main_dish
+4706606,Chili con carne - Mexikanischer Bohneneintopf mit Rindfleisch,Suppe,Essen,grün (Ampel);mit zum Teil fein zerkleinertem Fleischanteil,grün (Ampel),main_dish
+2973846,"mediterranes Nudelgratin mit Kirschtomaten, Zucchinistreifen und schwarzen Oliven",Hauptgericht,Essen 3,vegetarisch;mit Geschmacksverstärker;geschwärzt;Milch,vegetarisch;mit Geschmacksverstärker;geschwärzt;Milch,main_dish
+413418,Nudeln,Beilage,Beilagen,veganes Gericht,veganes Gericht,side_dish
+2169261,Raviolini in Spinat-Sahnesauce,Hauptgericht,Essen 3,"Eier und Eiererzeugnisse;Milch und Milcherzeugnisse (einschließlich Laktose);Glutenhaltiges Getreide
+GL1     Weizen
+GL2     Roggen
+GL3     Gerste
+GL4     Hafer
+GL5     Dinkel
+GL6     Kamut;vegetarisch",Eier und Eiererzeugnisse;vegetarisch;Milch und Milcherzeugnisse (einschließlich Laktose),main_dish
+3781754,Auberginencurry mit Kichererbsen-Reis,Hauptgericht,Hauptgericht,,,main_dish
+4821708,"Putengeschnetzeltes Züricher Art , Fusilli , Rosenkohl",Hauptgericht,Beliebt und gerne gegessen,Milch/-erzeugnisse;mit Geflügel;Glutenhaltiges,Milch/-erzeugnisse;mit Geflügel;Glutenhaltiges,main_dish
+8551388,Röstkartoffeln,Beilage,Beilagen,vegan,vegan,side_dish
+1999034,Zwei Gemüsefrikadellen,Hauptgericht,Tagesangebot,,,mix
+1863775,Gebratene Asianudeln mit Hähnchen,Hauptgericht,Aktions-Theke,mit Geflügel,mit Geflügel,mix
+4013106,"Karottensticks mit Sesam mit Gemüsechutney , dazu 3 Beilagen nach Wahl",Hauptgericht,Vegetarisches Menü,Vegane Speise;Kinderteller;Sellerie & Erzeugnisse;Sesamsamen & Erzeugnisse;Gluten aus Weizen & Erzeugnisse;mit Alkohol;Soja & Erzeugnisse,mit Alkohol;Gluten aus Weizen & Erzeugnisse;Soja & Erzeugnisse;Sellerie & Erzeugnisse;Vegane Speise,mix
+2308117,Penne,Beilage,Pastateller,mit Farbstoff;mit Konservierungsstoff;Sulfit/ Schwefeldioxid;glutenhaltiges Getreide;Milch/ Milchzucker;Sellerie;Schwein,Schwein;mit Konservierungsstoff;mit Farbstoff;Milch/ Milchzucker;Sellerie;glutenhaltiges Getreide;Sulfit/ Schwefeldioxid,main_dish
+285806,Ungarische Gulaschsuppe,Suppe,OMeGa-Suppenbar,Menü enthält Rindfleisch,Menü enthält Rindfleisch,unmatched
+2588157,Maissuppe,Suppe,Essen 1,,,mix
+3601826,Scharfes Kürbisgemüse mit Linsen & Rucola auf Penne Rigate,Hauptgericht,mensaVital,glutenhaltiges Getreide;Veganes Gericht,Veganes Gericht;glutenhaltiges Getreide,main_dish
+11692634,"Putenpfanne ""Sweet Chili"" mit Kräuterreis oder Pommes frites",Hauptgericht,Fleisch,"ohne deklarationspflichtige Zusatzstoffe;Geflügel, Knoblauch",ohne deklarationspflichtige Zusatzstoffe,main_dish
+1165468,Eierspätzle,Beilage,Fleischgericht,Schwein;Rind;Milch/ Milchzucker;glutenhaltiges Getreide;Eier,Rind;Schwein;Milch/ Milchzucker;glutenhaltiges Getreide;Eier,mix
+304827,"Hähnchenbrust ""Hawaii"" mit Curryhollandaise",Hauptgericht,Theke 3 - Empfehlung des Tages,enthält Milcheiweiß;mit Geflügelanteil,enthält Milcheiweiß,unmatched
+2604063,Berliner mit Zucker,Dessert,Kuchen und Gebäck,ohne Fleisch;Glutenhaltiges Getreide;Eier und Eiererzeugnisse;Soja und Sojaerzeugnisse;Milch und Milcherzeugnisse,ohne Fleisch;Soja und Sojaerzeugnisse;Milch und Milcherzeugnisse;Glutenhaltiges Getreide;Eier und Eiererzeugnisse,dessert
+4076586,Rote Bete Suppe mit frischem Meerrettich,Suppe,Suppen,gelb (Ampel);vegan;Antioxidationsmittel;Süßungsmittel;Soja,vegan;Antioxidationsmittel;Süßungsmittel;Soja;gelb (Ampel),soup
+4521726,Gyros,Hauptgericht,Essen 4,mit Tzatziki (G) und einer Beilage nach Wahl;Schwein,Schwein,main_dish
+3947875,"Ofenkartoffel, Kräuterquark-Dip",Hauptgericht,Essen II,mit Milcheiweiß;vegan;Milch und Milcherzeugnisse / enthält Laktose,vegan;mit Milcheiweiß;Milch und Milcherzeugnisse / enthält Laktose,main_dish
+1364180,Vollkornspaghetti mit Tomaten - Nuss - Sauce,Hauptgericht,Essen,,,main_dish
+9200101,Kleine Salatschale,Salat,Salate,grün (Ampel);vegan;Süßungsmittel;Sellerie,vegan;Süßungsmittel;Sellerie;grün (Ampel),salad
+2937998,MSC Schollenfilet gebacken mit  Dillmayonnaise  Kartoffeln,Hauptgericht,Fisch MSC Fisch,mit Weizen;mit Milch/Laktose;mit Senf;mit Eier;mit Soja,mit Weizen;mit Milch/Laktose;mit Soja;mit Eier,main_dish
+2936564,dazu Kartoffel-Sahnepüree,Beilage,Front Cooking,Vegetarisch;mit Farbstoff;Milch und Milchprodukte (inkl. Laktose),mit Farbstoff;Vegetarisch;Milch und Milchprodukte (inkl. Laktose),mix
+4049164,Grüne Bohnen,Beilage,Beilagen,grün (Ampel);vegan;bio,vegan;bio;grün (Ampel),side_dish
+501379,Indisches Karottencurry (vegan),Hauptgericht,Vegetarisches Menü,,,mix
+4966188,Verschiedene Dessertvariationen,Dessert,Dessertauswahl,Bitte beachten Sie die Auszeichnung am Produkt,Bitte beachten Sie die Auszeichnung am Produkt,dessert
+595290,Preiselbeer-Joghurt,Dessert,Desserts,,,dessert
+8437341,Salzkartoffeln,Beilage,Beilage,vegan,vegan,side_dish
+5084277,Kesselgulasch mit Brötchen,Hauptgericht,Mittag Ausgabe A,enthält Milch- und Milchzucker;enthält Weizen;Rindfleisch,Rindfleisch;enthält Weizen;enthält Milch- und Milchzucker,main_dish
+398995,Rindfleisch mit Meerrettich,Hauptgericht,Auswahlessen 2,Rind,Rind,main_dish
+1700742,"Erbsen, natur",Beilage,Beilagen,fleischloses Gericht,fleischloses Gericht,side_dish
+3029863,Tagessuppe Marinierte Hähnchenbrust in BBQ-Sauce dazu Pommes frites & Sourcreme-Dip,Hauptgericht,Essen I,Geflügel;Weizen;Milch und Milchprodukte (inkl. Laktose);mit Süßungsmitteln;Sellerie und Sellerieerzeugnisse;mit Farbstoff;Ei und Eierprodukte,Sellerie und Sellerieerzeugnisse;Geflügel;mit Süßungsmitteln;mit Farbstoff;Milch und Milchprodukte (inkl. Laktose);Ei und Eierprodukte;Weizen,main_dish
+2523377,Seelachs Tacco mit Tomaten-Salsa Petersilienkartoffeln,Hauptgericht,Mittagessen,Glutenhaltiges Getreide;Fisch-/erzeugnisse;Milch/ -erzeugnisse (inkl. Laktose),Glutenhaltiges Getreide,main_dish
+4137039,"Ravioli mit Veganem Tofu-Dip , dazu 3 Beilagen nach Wahl",Hauptgericht,Vegetarisches Menü,Vegane Speise;Kinderteller;Gluten aus Weizen & Erzeugnisse;Soja & Erzeugnisse,Gluten aus Weizen & Erzeugnisse;Soja & Erzeugnisse;Vegane Speise,mix
+3020104,"Cordon bleu , Rahmsauce",Hauptgericht,Klassiker,Farbstoff;Konservierungsstoff;Antioxidationsmittel;Phosphat;Gluten;Weizen;Milch,Farbstoff;Konservierungsstoff;Antioxidationsmittel;Phosphat;Milch;Gluten;Weizen,main_dish
+12780541,Kichererbsen-Kokos-Korma dazu Mandelreis,Hauptgericht,Hauptessen,enthält Mandeln;vegan,vegan,main_dish
+7826408,Träumereien,Dessert,Buffet,"Sweet delights
+",,mix
+656534,Maultaschen mit Gemüsefüllung und Kartoffelsalat dazu Bohnensalat,Hauptgericht,Tagesgericht,mit Süßungsmittel,mit Süßungsmittel,main_dish
+3955666,Mais oder Mischsalat,Salat,Nebenbeilage,,,side_dish
+2371951,Pasta Asciutta,Hauptgericht,Hauptgerichte,mit Antioxidationsmittel;Gluten;Eier;Milch und Milchprodukte;Sellerie;Weizen;Schweinefleisch;Rindfleisch,Rindfleisch;Schweinefleisch;mit Antioxidationsmittel;Sellerie;Eier;Gluten;Milch und Milchprodukte;Weizen,main_dish
+4293182,Quarkspeise ,Dessert, Dessert 1 ,Ananassauce;g,,unmatched
+2707728,Frikadelle mit Paprikarahmsauce,Hauptgericht,Essen 2,Eier und Eiererzeugnisse;Milch und Milcherzeugnisse (einschließlich Laktose);Weizen;mit Eiklar;Schwein;Rind,Eier und Eiererzeugnisse;Rind;Schwein;Milch und Milcherzeugnisse (einschließlich Laktose);Weizen,mix
+165778,Nudeln,Beilage,Beilagen,veganes Gericht,veganes Gericht,side_dish
+3189559,Vier Eierpfannkuchen mit Apfelmus,Hauptgericht,Essen,gelb (Ampel);vegetarisch;bio;Antioxidationsmittel;Eier;Milch und Milchprodukte (inkl. Laktose);Weizen,Antioxidationsmittel;vegetarisch;Eier;Milch und Milchprodukte (inkl. Laktose);Weizen;bio;gelb (Ampel),main_dish
+4227515,Pfirsiche,Dessert,Beilagen,Vegane Speise,Vegane Speise,side_dish
+3814744,Risi-Pisi,Hauptgericht,Wahlmenü (Beilage),ohne Fleisch;vegan;Natürlich frisch,vegan;ohne Fleisch;Natürlich frisch,side_dish
+8122050,"Rostbrätel mit Zwiebeln und rustikalem Karottengemüse, dazu Bratkartoffeln",Hauptgericht,Angebot 3,Alkohol;Schwein,Schwein;Alkohol,main_dish
+628193,Manzo con salsa di funghi  - Rinderschmorbraten,Hauptgericht,Essen,,,main_dish
+4635568,"Berliner Currywurst mit Pommes frites, gebratenen Zwiebeln, Tomatenketchup und Salat",Hauptgericht,Aktionen,rot (Ampel);Schweinefleisch bzw. mit Gelatine vom Schwein;konserviert;Antioxidationsmittel;Süßungsmittel;Nitritpökelsalz;Senf,Antioxidationsmittel;Süßungsmittel;Nitritpökelsalz;Senf;konserviert;rot (Ampel),main_dish
+4854514,Rinderhacksteak mit Rahmsauce,Hauptgericht,Grill,Rindfleisch;Schweinefleisch;Hühnerei;Glutenhaltiges Getreide;Gerste;Weizen;Knoblauch;Milch und Laktose;Senf;Soja,Glutenhaltiges Getreide;Rindfleisch;Schweinefleisch;Soja;Senf;Knoblauch;Weizen;Gerste;Milch und Laktose;Hühnerei,main_dish
+3865647,American-Dressing,Anderes,Salate,rot (Ampel);vegan;Soja;Senf,vegan;Soja;Senf;rot (Ampel),salad
+1713318,Lauch-Champignon-Gemüse,Beilage,Gemüsebeilagen,,,side_dish
+14590514,Gemüse mit bunten Linsen,Hauptgericht,Essen 3,"und einer Beilage nach Wahl,;Vegan",Vegan,main_dish
+4856279,Saisonale Beilagensalate,Salat,Aktion,vegan,vegan,mix
+2106293,Beerenjoghurt,Dessert,Nachspeisen,Milch und Milchprodukte;vegetarisch,vegetarisch;Milch und Milchprodukte,dessert
+8498309,Falafelbällchen auf Tabouleh mit Bulgur dazu Salat und Sojadressing,Hauptgericht,Vegan,ohne deklarationspflichtige Zusatzstoffe;Allergene: Soja;Knoblauch,Knoblauch;ohne deklarationspflichtige Zusatzstoffe,main_dish
+379328,Scaloppine vom Puter mit Zitronen-Estragonsauce,Hauptgericht,Empfehlung des Tages,enthält Milcheiweiß;mit Konservierungsstoff;mit Geflügelanteil;mit Geschmacksverstärker,mit Konservierungsstoff;mit Geschmacksverstärker;enthält Milcheiweiß,main_dish
+591818,Tomatensalat,Salat,Beilagen,veganes Gericht,veganes Gericht,side_dish
+3701964,Salat,Salat,Gut & Günstig 1,,,mix
+4304443,Pappardelle,Beilage,Beilage,Weizen;mit Farbstoffen,Weizen;mit Farbstoffen,side_dish
+8463751,"Mediterrane Kartoffelpfanne mit Kirschtomaten, Paprika , dazu Bohnensalat (auch vegetarisch erhältlich mit Hirtenkäse)",Hauptgericht,Fertig 1,Menü ist vegan;enthält Knoblauch;Soja (F);Milch/Milchzucker (Laktose) (G),Menü ist vegan;enthält Knoblauch;Milch/Milchzucker (Laktose) (G),unmatched
+1823950,Pizza mit Hähnchenbrustfilet und Pfirsichen,Hauptgericht,Pizza,Soja(bohnen) und daraus gewonnene Erzeugnisse;Milch und Milcherzeugnisse (einschließlich Laktose);glutenhaltiges Getreide;mit Farbstoff;mit Konservierungsstoff;Geflügel,Geflügel;mit Konservierungsstoff;mit Farbstoff;glutenhaltiges Getreide;Milch und Milcherzeugnisse (einschließlich Laktose);Soja(bohnen) und daraus gewonnene Erzeugnisse,main_dish
+712418,Salzkartoffeln,Beilage,Beilagen,veganes Gericht,veganes Gericht,side_dish
+1222999,Belegte Brötchen finden Sie in großer Auswahl im Kühlthresen,Anderes,Belegte Brötchen,,,unmatched
+5163095,Countrykartoffeln,Beilage,Beilagen,Glutenhaltiges Getreide;Weizen;vegetarisch,Glutenhaltiges Getreide;vegetarisch;Weizen,side_dish
+1347929,Kleiner Beilagensalat,Salat,Beilage,vegan,vegan,side_dish
+536393,"Räuchertofu mit Haferflockenkruste an Chili-Dip, dazu Erdnussreis 
+und Salat",Hauptgericht,Fit & Vital Komplettangebot,Menü ist vegan,Menü ist vegan,unmatched
+11938448,Pommes Frites MAXI PORTION Ausgabe 5,Beilage,Beilagen,,,side_dish
+8958010,"Chinakohl-Mandarinensalat, Kräutervinaigrette",Salat,QUEERBEET,ohne Fleisch;vegan;Natürlich frisch;KlimaTeller,vegan;ohne Fleisch;Natürlich frisch,main_dish
+4416378,Chili con Carne,Hauptgericht,Menü 2,"Rind;Enthält Zusatzstoffe: Antioxidationsmittel, Konservierungsstoff",Rind,main_dish
+15783225,Salatbuffet mit vegetarischen und veganen Komponenten,Salat,Salat-/ Gemüsebuffet 100g,Eier;Gerste;Konservierungsstoff;Senf;Soja;Weizen;vegetarisch,Konservierungsstoff;vegetarisch;Soja;Senf;Eier;Weizen;Gerste,unmatched
+3126088,"Spaghetti - Pfanne mit Ratatouille und Tofu[Gl,ML]",Hauptgericht,Gut & Günstig,,,mix
+11349298,Mensa-Vital: Kichererbsen - Gemüse - Curry mit Basmatireis,Hauptgericht,Vital - Essen,Vegan,Vegan,main_dish
+2342707,Bierbrat'l mit Sauce,Hauptgericht,Tagesgericht 4,mit Fleisch;Schweinefleisch;Gericht mit Alkohol,Schweinefleisch;mit Fleisch,main_dish
+2214213,"Pfeffergeschnetzeltes vom Rind dazu eine Beilage nach Wahl (A,C,G,9)",Hauptgericht,Mensa,,,mix
+4383020,Orangenwaffel mit Sahne,Dessert,Essen 7,vegetarisch,vegetarisch,main_dish
+6270333,", Pfefferrahmsoße ",Anderes,Menü 1,Glutenhaltiges Getreide;Milch/Laktose;Sellerie;Soja;Vegetarisch;Weizen,Glutenhaltiges Getreide;Soja;Sellerie;Vegetarisch;Weizen;Milch/Laktose,mix
